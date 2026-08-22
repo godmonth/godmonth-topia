@@ -5,7 +5,7 @@
 
     <groupId>com.godmonth.topia</groupId>
     <artifactId>topia-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <url>https://github.com/godmonth/godmonth-topia</url>
     <packaging>pom</packaging>
     <name>godmonth topia</name>
@@ -52,7 +52,7 @@
         <connection>scm:git:git@github.com:godmonth/godmonth-topia.git</connection>
         <developerConnection>scm:git:git@github.com:godmonth/godmonth-topia.git</developerConnection>
         <url>https://github.com/godmonth/godmonth-topia</url>
-        <tag>topia-parent-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
