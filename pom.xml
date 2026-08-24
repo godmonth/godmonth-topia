@@ -49,8 +49,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git@github.com:godmonth/godmonth-topia.git</connection>
-        <developerConnection>scm:git:git@github.com:godmonth/godmonth-topia.git</developerConnection>
+        <connection>scm:git:https://github.com/godmonth/godmonth-topia.git</connection>
+        <developerConnection>scm:git:https://github.com/godmonth/godmonth-topia.git</developerConnection>
         <url>https://github.com/godmonth/godmonth-topia</url>
         <tag>HEAD</tag>
     </scm>
