@@ -7,7 +7,7 @@
     <parent>
         <groupId>com.godmonth.topia</groupId>
         <artifactId>topia-parent</artifactId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.1</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <name>topia rpc</name>
